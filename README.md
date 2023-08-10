@@ -2,9 +2,9 @@
 
 <details>
 <summary>
-
-# Bronze V
-
+<h1 style="color:brown;">
+<img src="https://static.solved.ac/tier_small/1.svg" width="18"/> Bronze V
+</h1>
 </summary>
 
 - [1000. A+B](/Baekjoon/Bronze/V/1000.%20A+B/)
