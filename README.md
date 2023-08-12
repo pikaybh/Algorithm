@@ -14,3 +14,14 @@
 - [1330. 두 수 비교하기](/Baekjoon/Bronze/V/1330.%20두%20수%20비교하기/)
 
 </details>
+<details>
+<summary>
+<h1 style="color:brown;">
+<img src="https://static.solved.ac/tier_small/2.svg" width="18"/> Bronze IV
+</h1>
+</summary>
+
+- [1264. 모음의 개수](/Baekjoon/Bronze/IV/1264.%20모음의%20개수/)
+- [2083. 럭비 클럽](/Baekjoon/Bronze/IV/2083.%20럭비%20클럽/)
+
+</details>
